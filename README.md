@@ -21,7 +21,7 @@ A 2D Metroidvania-style platformer game built with Python and Pygame.
 ## Project Structure
 
 ```
-rpi-project/
+metroidvania-game/
 ├── main.py                 # Main game entry point
 ├── requirements.txt        # Python dependencies
 ├── assets/                 # Game assets
